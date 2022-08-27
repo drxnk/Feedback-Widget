@@ -1,7 +1,7 @@
 
 # Feedback Widget
 
-- Projeto desenvolvido juntamente com a RocketSeat em sem evento NLW.
+- Projeto desenvolvido juntamente com a RocketSeat em seu evento NLW.
 - Sistema de enviar Feedbacks
 
 
